@@ -10,22 +10,19 @@ description: Docs Homepage SeaLightSwap
 
 ### Page Links
 
-{% content-ref url="fundamentals/sealightswap.md" %}
+
 [sealightswap.md](fundamentals/sealightswap.md)
-{% endcontent-ref %}
 
-{% content-ref url="fundamentals/tokenomics.md" %}
+
 [tokenomics.md](fundamentals/tokenomics.md)
-{% endcontent-ref %}
 
-{% content-ref url="fundamentals/members.md" %}
+
+
 [members.md](fundamentals/members.md)
-{% endcontent-ref %}
 
-{% content-ref url="fundamentals/roadmap.md" %}
+
 [roadmap.md](fundamentals/roadmap.md)
-{% endcontent-ref %}
 
-{% content-ref url="fundamentals/important-links.md" %}
+
 [important-links.md](fundamentals/important-links.md)
-{% endcontent-ref %}
+
