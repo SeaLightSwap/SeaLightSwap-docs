@@ -2,7 +2,7 @@
 
 
 
-SeaLightCapital DAO / SealightSwap Terms of Service
+SealightSwap Terms of Service
 
 Last modified: May 17/2022
 
@@ -14,7 +14,7 @@ Last modified: May 17/2022
 \
 
 
-Welcome to [https://www.sealightswap.org](https://www.sealightswap.org/#/swap), a website-hosted user interface (the "Interface" or "App") provided by SeaLightCapital DAO ("we", "our", or "us"). The Interface provides access to a decentralized protocol on the Ethereum blockchain that allows users to trade certain digital assets ("SeaLightSwap protocol" or the "Protocol"). The Interface is one, but not the exclusive, means of accessing the Protocol.
+Welcome to [https://www.sealightswap.org](https://www.sealightswap.org/#/swap), a website-hosted user interface (the "Interface" or "App") provided by SeaLightSwap ("we", "our", or "us"). The Interface provides access to a decentralized protocol on the Polygon blockchain that allows users to trade certain digital assets ("SeaLightSwap protocol" or the "Protocol"). The Interface is one, but not the exclusive, means of accessing the Protocol.
 
 \
 
@@ -72,7 +72,7 @@ You further represent that you are not (a) the subject of economic or trade sanc
     \
 
 
-    Please note that when you use the Interface, you are interacting with the Ethereum blockchain, which provides transparency into your transactions. SeaLightCapital DAO does not control and is not responsible for any information you make public on the Ethereum blockchain by taking actions through the Interface.
+    Please note that when you use the Interface, you are interacting with the Polygon blockchain, which provides transparency into your transactions. SeaLightSwap does not control and is not responsible for any information you make public on the Polygon blockchain by taking actions through the Interface.
 
     \
 
@@ -100,7 +100,7 @@ You further represent that you are not (a) the subject of economic or trade sanc
 
 5.  **Not Registered with the SEC or Any Other Agency**
 
-    We are not registered with the U.S. Securities and Exchange Commission as a national securities exchange or in any other capacity. You understand and acknowledge that we do not broker trading orders on your behalf nor do we collect or earn fees from your trades on the Protocol. We also do not facilitate the execution or settlement of your trades, which occur entirely on the public distributed Ethereum blockchain.
+    We are not registered with the U.S. Securities and Exchange Commission as a national securities exchange or in any other capacity. You understand and acknowledge that we do not broker trading orders on your behalf nor do we collect or earn fees from your trades on the Protocol. We also do not facilitate the execution or settlement of your trades, which occur entirely on the public distributed Polygon blockchain.
 
     \
 
